@@ -52,3 +52,6 @@
 [submodule "Cine-app"]
 	path = Cine-app
 	url = git@github.com:ProjetsDevFanny/Cine-app.git
+[submodule "FormationFS-CSS-JS-TP1-2-3-Helium"]
+	path = FormationFS-CSS-JS-TP1-2-3-Helium
+	url = git@github.com:ProjetsDevFanny/FormationFS-CSS-JS-TP1-2-3-Helium.git
