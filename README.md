@@ -26,7 +26,7 @@ La pédagogie de la formation repose sur l'apprentissage par la pratique :
 
 ## 💡 Objectifs de cette formation 
 
-- Rendre la personne autonome, en te fournissant les outils et les connaissances nécessaires pour développer des applications front-end de qualité.
+- Rendre la personne autonome, en fournissant les outils et les connaissances nécessaires pour développer des applications front-end de qualité.
 - Apprendre le développement web de manière structurée et pratique.
 - Construire un portfolio solide avec des projets concrets.
 - Acquérir des compétences recherchées par les recruteurs dans le domaine du front-end.
