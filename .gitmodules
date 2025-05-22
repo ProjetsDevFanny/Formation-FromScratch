@@ -1,0 +1,54 @@
+[submodule "Entrainement_CSS"]
+	path = Entrainement_CSS
+	url = git@github.com:ProjetsDevFanny/Entrainement_CSS.git
+[submodule "Helium_integration-et-animation-JS"]
+	path = Helium_integration-et-animation-JS
+	url = git@github.com:ProjetsDevFanny/Helium_integration-et-animation-JS.git
+[submodule "Scroll_navbar"]
+	path = Scroll_navbar
+	url = git@github.com:ProjetsDevFanny/Scroll_navbar.git
+[submodule "Scroll_popup"]
+	path = Scroll_popup
+	url = git@github.com:ProjetsDevFanny/Scroll_popup.git
+[submodule "Sidebar"]
+	path = Sidebar
+	url = git@github.com:ProjetsDevFanny/Sidebar.git
+[submodule "Entrainement_Github"]
+	path = Entrainement_Github
+	url = git@github.com:ProjetsDevFanny/Entrainement_Github.git
+[submodule "Color-Generator"]
+	path = Color-Generator
+	url = git@github.com:ProjetsDevFanny/Color-Generator.git
+[submodule "To_Do_List"]
+	path = To_Do_List
+	url = git@github.com:ProjetsDevFanny/To_Do_List.git
+[submodule "To_Do_List_Simply"]
+	path = To_Do_List_Simply
+	url = git@github.com:ProjetsDevFanny/To_Do_List_Simply.git
+[submodule "Compte_a_rebours"]
+	path = Compte_a_rebours
+	url = git@github.com:ProjetsDevFanny/Compte_a_rebours.git
+[submodule "Date_calculator"]
+	path = Date_calculator
+	url = git@github.com:ProjetsDevFanny/Date_calculator.git
+[submodule "Country_app"]
+	path = Country_app
+	url = git@github.com:ProjetsDevFanny/Country_app.git
+[submodule "Generateur_blagues"]
+	path = Generateur_blagues
+	url = git@github.com:ProjetsDevFanny/Generateur_blagues.git
+[submodule "QuizzApp"]
+	path = QuizzApp
+	url = git@github.com:ProjetsDevFanny/QuizzApp.git
+[submodule "Floppy_Bird"]
+	path = Floppy_Bird
+	url = git@github.com:ProjetsDevFanny/Floppy_Bird.git
+[submodule "Training_course_react"]
+	path = Training_course_react
+	url = git@github.com:ProjetsDevFanny/Training_course_react.git
+[submodule "cooking-app"]
+	path = cooking-app
+	url = git@github.com:ProjetsDevFanny/cooking-app.git
+[submodule "Cine-app"]
+	path = Cine-app
+	url = git@github.com:ProjetsDevFanny/Cine-app.git
