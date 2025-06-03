@@ -13,7 +13,7 @@ Le programme couvre les technologies essentielles du développement front-end :
 - **React** : création d'applications web modernes et performantes.
 - **SASS, GitHub, SEO, TypeScript, Node.js** : outils et pratiques avancées pour un développement efficace et optimisé.
 
-La formation inclut également des travaux pratiques et la réalisation de projets concrets pour enrichir ton portfolio.
+La formation inclut également des travaux pratiques et la réalisation de projets concrets pour enrichir mon portfolio.
 
 ## 🧑‍🏫 Méthodologie
 
