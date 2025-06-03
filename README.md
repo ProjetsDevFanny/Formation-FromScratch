@@ -1,6 +1,7 @@
 # 🎓 Formation From Scratch – Mastering Front-End
 
 -> Lien vers la formation: https://fromscratch.podia.com/
+-> Lien vers la chaîne youtube du formateur : https://www.youtube.com/c/FromScratchD%C3%A9veloppementWeb
 
 **From Scratch** est une formation complète dédiée à l'apprentissage du développement front-end, conçue pour les autodidactes souhaitant acquérir des compétences solides et pratiques. Elle propose un parcours structuré, sans prérequis, axé sur la pratique et l'autonomie.
 
